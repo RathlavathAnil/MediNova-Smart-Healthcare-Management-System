@@ -12,7 +12,7 @@ public class DatabaseConnection {
 
     private static final String URL      = "jdbc:mysql://localhost:3306/medinova";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "XXXX"; 
+    private static final String PASSWORD = "Anil@0903"; 
 
     private static Connection connection = null;
 
