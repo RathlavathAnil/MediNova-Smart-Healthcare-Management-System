@@ -84,13 +84,13 @@
 
 | Module | Capability | Status |
 |--------|-----------|--------|
-| 🔐 **Admin Authentication** | Secure login with session management | ✅ Live |
-| 👤 **Patient Management** | Register, search, update, and discharge patients | ✅ Live |
-| 🩺 **Doctor Management** | Manage doctor profiles, specializations, and availability | ✅ Live |
-| 📅 **Appointment Scheduling** | Book, reschedule, and cancel appointments | ✅ Live |
-| 📋 **Medical Records** | Create and retrieve diagnoses, prescriptions, and notes | ✅ Live |
-| 💳 **Billing** | Generate itemized bills with status tracking | ✅ Live |
-| 📊 **Reports** | Filtered views of appointments, revenue, and patient data | ✅ Live |
+| 🔐 **Admin Authentication** | Secure login with session management | 
+| 👤 **Patient Management** | Register, search, update, and discharge patients | 
+| 🩺 **Doctor Management** | Manage doctor profiles, specializations, and availability | 
+| 📅 **Appointment Scheduling** | Book, reschedule, and cancel appointments | 
+| 📋 **Medical Records** | Create and retrieve diagnoses, prescriptions, and notes | 
+| 💳 **Billing** | Generate itemized bills with status tracking | 
+| 📊 **Reports** | Filtered views of appointments, revenue, and patient data | 
 
 ### Feature Highlights
 
