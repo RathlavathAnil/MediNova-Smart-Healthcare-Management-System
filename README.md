@@ -29,28 +29,48 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Login</strong></td>
-    <td align="center"><strong>Dashboard</strong></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/login.png" alt="Login Screen" width="400"/></td>
-    <td><img src="screenshots/dashboard.png" alt="Dashboard" width="400"/></td>
-  </tr>
-  <tr>
+    <td align="center"><strong>Home Dashboard</strong></td>
     <td align="center"><strong>Patient Management</strong></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/home.png" alt="Home Dashboard" width="400"/></td>
+    <td><img src="Screenshots/patients.png" alt="Patient Management" width="400"/></td>
+  </tr>
+
+  <tr>
     <td align="center"><strong>Doctor Management</strong></td>
+    <td align="center"><strong>Appointment Management</strong></td>
   </tr>
   <tr>
-    <td><img src="screenshots/patient-management.png" alt="Patient Management" width="400"/></td>
-    <td><img src="screenshots/doctor-management.png" alt="Doctor Management" width="400"/></td>
+    <td><img src="Screenshots/doctors.png" alt="Doctor Management" width="400"/></td>
+    <td><img src="Screenshots/appointments.png" alt="Appointment Management" width="400"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>Medical Records</strong></td>
+    <td align="center"><strong>Billing System</strong></td>
   </tr>
   <tr>
-    <td align="center"><strong>Appointments</strong></td>
-    <td align="center"><strong>Billing</strong></td>
+    <td><img src="Screenshots/medicalrecords.png" alt="Medical Records" width="400"/></td>
+    <td><img src="Screenshots/bills.png" alt="Billing System" width="400"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>Summary Report</strong></td>
+    <td align="center"><strong>Patient & Doctor Report</strong></td>
   </tr>
   <tr>
-    <td><img src="screenshots/appointments.png" alt="Appointments" width="400"/></td>
-    <td><img src="screenshots/billing.png" alt="Billing" width="400"/></td>
+    <td><img src="Screenshots/summaryreport.png" alt="Summary Report" width="400"/></td>
+    <td><img src="Screenshots/patientsdoctorsreport.jpg.png" alt="Patient Doctor Report" width="400"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>Appointment Report</strong></td>
+    <td align="center"><strong>Analytics Overview</strong></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/appointmentsreport.jpg.png" alt="Appointment Report" width="400"/></td>
+    <td><img src="Screenshots/summaryreport.png" alt="Analytics Overview" width="400"/></td>
   </tr>
 </table>
 
@@ -521,7 +541,7 @@ Then open a Pull Request against `main` with a description of what changes were 
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2026 Rathlavath Anil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -544,13 +564,12 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-**[Your Name]**
+**Rathlavath Anil**
 
 *Java Developer | Backend Engineer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rathlavathanil/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/RathlavathAnil)
 
 </div>
 
