@@ -27,53 +27,27 @@
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td align="center">Home Dashboard</td>
-    <td align="center">Patient Management</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/home.png" width="280"/></td>
-    <td><img src="screenshots/patients.png" width="280"/></td>
-  </tr>
+## 📸 Screenshots
 
-  <tr>
-    <td align="center">Doctor Management</td>
-    <td align="center">Appointment Management</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/doctors.png" width="280"/></td>
-    <td><img src="screenshots/appointments.png" width="280"/></td>
-  </tr>
+|                Home Dashboard                |                Patient Management                |
+| :------------------------------------------: | :----------------------------------------------: |
+| <img src="screenshots/home.png" width="250"> | <img src="screenshots/patients.png" width="250"> |
 
-  <tr>
-    <td align="center">Medical Records</td>
-    <td align="center">Billing System</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/medicalrecords.png" width="280"/></td>
-    <td><img src="screenshots/bills.png" width="280"/></td>
-  </tr>
+|                Doctor Management                |                Appointment Management                |
+| :---------------------------------------------: | :--------------------------------------------------: |
+| <img src="screenshots/doctors.png" width="250"> | <img src="screenshots/appointments.png" width="250"> |
 
-  <tr>
-    <td align="center">Summary Report</td>
-    <td align="center">Patient & Doctor Report</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/summaryreport.png" width="280"/></td>
-    <td><img src="screenshots/patientsdoctorsreport.jpg.png" width="280"/></td>
-  </tr>
+|                     Medical Records                    |                 Billing System                |
+| :----------------------------------------------------: | :-------------------------------------------: |
+| <img src="screenshots/medicalrecords.png" width="250"> | <img src="screenshots/bills.png" width="250"> |
 
-  <tr>
-    <td align="center">Appointment Report</td>
-    <td align="center">Analytics Overview</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/appointmentsreport.jpg.png" width="280"/></td>
-    <td><img src="screenshots/summaryreport.png" width="280"/></td>
-  </tr>
-</table>
+|                     Summary Report                    |                      Patient & Doctor Report                      |
+| :---------------------------------------------------: | :---------------------------------------------------------------: |
+| <img src="screenshots/summaryreport.png" width="250"> | <img src="screenshots/patientsdoctorsreport.jpg.png" width="250"> |
 
+|                       Appointment Report                       |                   Analytics Overview                  |
+| :------------------------------------------------------------: | :---------------------------------------------------: |
+| <img src="screenshots/appointmentsreport.jpg.png" width="250"> | <img src="screenshots/summaryreport.png" width="250"> |
 
 ---
 
