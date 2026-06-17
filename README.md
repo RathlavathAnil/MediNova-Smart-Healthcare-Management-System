@@ -34,19 +34,19 @@
 
 |                Doctor Management                |                Appointment Management                |
 | :---------------------------------------------: | :--------------------------------------------------: |
-| <img src="screenshots/doctors.png" width="250"> | <img src="screenshots/appointments.png" width="250"> |
+| <img src="screenshots/doctors.png" width="600"> | <img src="screenshots/appointments.png" width="600"> |
 
 |                     Medical Records                    |                 Billing System                |
 | :----------------------------------------------------: | :-------------------------------------------: |
-| <img src="screenshots/medicalrecords.png" width="250"> | <img src="screenshots/bills.png" width="250"> |
+| <img src="screenshots/medicalrecords.png" width="600"> | <img src="screenshots/bills.png" width="600"> |
 
 |                     Summary Report                    |                      Patient & Doctor Report                      |
 | :---------------------------------------------------: | :---------------------------------------------------------------: |
-| <img src="screenshots/summaryreport.png" width="250"> |<img src="screenshots/patientsdoctosreportt.png" width="250"/> |
+| <img src="screenshots/summaryreport.png" width="600"> |<img src="screenshots/patientsdoctosreportt.png" width="600"/> |
 
 |                       Appointment Report                       |                   Analytics Overview                  |
 | :------------------------------------------------------------: | :---------------------------------------------------: |
-| <img src="screenshots/appointmentsreport.jpg.png" width="250"> | <img src="screenshots/summaryreport.png" width="250"> |
+| <img src="screenshots/appointmentsreport.jpg.png" width="600"> | <img src="screenshots/summaryreport.png" width="600"> |
 
 ---
 
