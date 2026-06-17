@@ -30,7 +30,7 @@
 
 |                Home Dashboard                |                Patient Management                |
 | :------------------------------------------: | :----------------------------------------------: |
-| <img src="screenshots/home.png" width="250"> | <img src="screenshots/patients.png" width="250"> |
+| <img src="screenshots/home.png" width="500"> | <img src="screenshots/patients.png" width="500"> |
 
 |                Doctor Management                |                Appointment Management                |
 | :---------------------------------------------: | :--------------------------------------------------: |
