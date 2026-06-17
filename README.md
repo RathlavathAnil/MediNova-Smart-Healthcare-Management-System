@@ -25,7 +25,6 @@
 
 ---
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
@@ -43,7 +42,7 @@
 
 |                     Summary Report                    |                      Patient & Doctor Report                      |
 | :---------------------------------------------------: | :---------------------------------------------------------------: |
-| <img src="screenshots/summaryreport.png" width="250"> | <img src="screenshots/patientsdoctorsreport.jpg.png" width="250"> |
+| <img src="screenshots/summaryreport.png" width="250"> | <img src="screenshots/patientsdoctorsreport.jpg.png" width="250"/> |
 
 |                       Appointment Report                       |                   Analytics Overview                  |
 | :------------------------------------------------------------: | :---------------------------------------------------: |
